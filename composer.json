@@ -1,0 +1,21 @@
+{
+    "name": "ayman/onewordmessenger",
+    "description": "This is a social network to send one word message",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aksoftwaredeveloper",
+            "email": "mk12345678910@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "3.3.7"
+    },
+    "require-dev": {
+        "filp/whoops": "^2.2"
+    },
+    "autoload":{
+        "files":["configurations/utilities.php"]
+    }
+}

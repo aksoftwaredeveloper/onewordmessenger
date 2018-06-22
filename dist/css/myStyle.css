@@ -1,0 +1,69 @@
+.logo{
+    position: relative;
+    top:11px;
+    width:6.25em;
+
+
+}
+
+#user{
+    margin-top: 14px;
+}
+
+.banner{
+    background-image: url("../imgs/one.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    max-width:100vw;
+    min-height:100vh;
+}
+.bannerProfile{
+    background-image: url("../imgs/profile-page-banner.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    max-width:100vw;
+    min-height: 500px;
+
+}
+
+.messageList{
+    height: 200px;
+    overflow-y: scroll;
+}
+.pageTitle{
+    font-size: 6em;
+    padding-left: 390px;
+    padding-top: 183px;
+
+}
+
+.messageBox hr{
+    border-top:3px dotted rosybrown ;
+}
+
+footer{
+
+    border-top: 0.5px solid #cdddeb;
+}
+
+
+
+
+
+@media only screen and (max-width:767px){
+
+    .logo{
+        position: absolute;
+        width:5em;
+    }
+
+    #user{
+        margin-top: auto;
+        margin-left: 14px;
+    }
+
+
+}
+
+
+
