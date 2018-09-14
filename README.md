@@ -1,13 +1,11 @@
 # onewordmessenger
 social network for sharing one word message
 
-Currently you can only log in and see messages for user only as I had a situation at work and ended up not finishing , so I have 
-don UI,  Login function/logout , Database , view messages on profile page , wanted to do "Create new message using message verification
-function or class " 
+Currently you can only log in and see messages for user only, so I have done UI,  Login function/logout , Database , view messages on profile page , 
 currently u can see only messages assigned to logged in users.
-Sorry for not completing the task I had alot to finish Where i am currently working we had an emergancy situation .
--Didnt add footer header navigation dynamicly as includes ,but i know how to .
-Test Users: mk12345678910@gmail.com    pass:Zxc123,,,
+
+ 
+Test Users: 
           : tanya@tanya.com            pass:tanya123
 
 
